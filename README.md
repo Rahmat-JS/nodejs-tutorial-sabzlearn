@@ -19,7 +19,7 @@ This project is intended to provide hands-on practice and examples while learnin
 ## Repository Structure
 
 Below is an overview of the repository structure:
-
+```bash
 .
 ├── exercise1/         # Sample code for Topic 1
 │   ├── index.js
@@ -32,7 +32,7 @@ Below is an overview of the repository structure:
 │   └── README.md
 ├── package.json       # Project dependencies and scripts
 └── README.md          # This file
-
+```
 
 > **Note:** You can add or modify directories as you continue learning and expanding the repository.
 
@@ -42,12 +42,12 @@ To run any of the Node.js exercises locally, follow these steps:
 
 1. Clone the repository to your local machine:
   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/rahmat-js/nodejs-tutorial-sabzlearn
   ```
 
 2. Navigate into the repository directory:
   ```bash
-  cd your-repository-name
+  cd nodejs-tutorial-sabzlearn
   ```
 3. Install the required dependencies (if any):
   ```bash
