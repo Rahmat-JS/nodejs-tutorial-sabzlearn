@@ -1,0 +1,14 @@
+{
+  "name": "212-fs-for-folders",
+  "version": "1.0.0",
+  "main": "deleter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deleter": "node deleter.js",
+    "check": "node check.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}

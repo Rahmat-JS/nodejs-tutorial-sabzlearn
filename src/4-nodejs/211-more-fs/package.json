@@ -1,0 +1,15 @@
+{
+  "name": "211-more-fs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "renamer": "node renamer.js",
+    "deleter": "node deleter.js",
+    "append": "node rahmat-append.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
